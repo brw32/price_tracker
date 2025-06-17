@@ -11,7 +11,7 @@ venv/
 # Specific to this project
 data/*.csv
 !data/prices.csv # Keep an empty prices.csv for structure
-visuals/*.png
+#visuals/*.png
 
 # IDEs
 .idea/
