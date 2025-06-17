@@ -1,0 +1,102 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-commerce Price Tracker</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f4f7f6;
+            color: #333;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 2rem auto;
+            padding: 1.5rem;
+            background-color: #ffffff;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+        }
+        .product-card {
+            background-color: #f9fafb;
+            border: 1px solid #e2e8f0;
+            border-radius: 10px;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+        .product-card img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 2rem;
+            color: #2c3e50;
+        }
+        .header h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+        }
+        .no-data-message {
+            text-align: center;
+            padding: 2rem;
+            color: #666;
+        }
+        .info-label {
+            font-weight: 600;
+            color: #4a5568;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1 class="text-gray-800">📊 E-commerce Price Tracker</h1>
+            <p class="text-lg text-gray-600 mt-2">Monitor product prices over time.</p>
+            <p class="text-sm text-gray-500 mt-1">Data last updated: {{ product_data[0].timestamp if product_data else 'N/A' }}</p>
+        </header>
+
+        {% if product_data %}
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
+                {% for product in product_data %}
+                    <div class="product-card">
+                        <h2 class="text-2xl font-bold text-indigo-700 mb-2">{{ product.name }}</h2>
+                        <div class="text-lg">
+                            <span class="info-label">Latest Price:</span> <span class="text-green-600 font-semibold">{{ product.latest_price }}</span>
+                        </div>
+                        <div class="text-lg">
+                            <span class="info-label">Availability:</span> {{ product.availability }}
+                        </div>
+                        <div class="text-lg">
+                            <span class="info-label">Product Link:</span> <a href="{{ product.url }}" target="_blank" class="text-blue-500 hover:underline break-words">{{ product.url }}</a>
+                        </div>
+                        {% if product.chart_image %}
+                            <div class="mt-4">
+                                <h3 class="text-xl font-semibold mb-2 text-gray-700">Price History</h3>
+                                <!-- DIRECT IMAGE PATH USED HERE -->
+                                <img src="{{ product.chart_image }}" alt="Price Chart for {{ product.name }}" class="w-full h-auto rounded-md">
+                                <p class="text-sm text-gray-500 mt-2">Chart generated on: {{ product.timestamp }}</p>
+                            </div>
+                        {% else %}
+                            <p class="text-gray-500 italic mt-4">No chart available yet. Run `python visuals/plotter.py` to generate charts.</p>
+                        {% endif %}
+                    </div>
+                {% endfor %}
+            </div>
+        {% else %}
+            <div class="no-data-message">
+                <p class="text-xl">No product data available.</p>
+                <p class="mt-2">Please ensure you have run `python scraper/scraper.py` to collect initial data.</p>
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>

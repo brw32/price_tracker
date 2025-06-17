@@ -1,0 +1,375 @@
+ERROR:root:Failed to load config.json: Invalid control character at: line 3 column 126 (char 766)
+INFO:root:Scraped Dyson Gen5detect Cordless Vacuum Cleaner successfully
+INFO:root:Starting price tracker with 24-hour interval
+INFO:root:Price tracker stopped by user
+ERROR:root:Failed to load config.json: Expecting value: line 1 column 1 (char 0)
+ERROR:root:Failed to load config.json: Expecting value: line 1 column 1 (char 0)
+INFO:root:Scraped Dyson Gen5detect Cordless Vacuum Cleaner successfully
+INFO:root:Starting price tracker with 24-hour interval
+INFO:root:Price tracker stopped by user
+INFO:root:Scraping URL: https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1
+INFO:root:Scraped data: {'title': 'Dyson Gen5detect Cordless Vacuum Cleaner', 'price': 949.0, 'availability': 'Only 2 left in stock - order soon.', 'timestamp': '2025-06-16T15:56:24.932860', 'url': 'https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1'}
+ERROR:root:Error scraping Dyson Gen5detect Cordless Vacuum Cleaner: [Errno 13] Permission denied: 'data/exports/price_history.csv'
+INFO:root:Starting price tracker with 24-hour interval
+INFO:root:Price tracker stopped by user
+INFO:root:Scraping URL: https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1
+INFO:root:Scraped data: {'title': 'Dyson Gen5detect Cordless Vacuum Cleaner', 'price': 949.0, 'availability': 'Only 2 left in stock - order soon.', 'timestamp': '2025-06-16T15:56:56.643565', 'url': 'https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1'}
+INFO:root:Scraped Dyson Gen5detect Cordless Vacuum Cleaner successfully
+INFO:root:Starting price tracker with 24-hour interval
+INFO:root:Price tracker stopped by user
+INFO:root:Scraping URL: https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1
+INFO:root:Scraped data: {'title': 'Dyson Gen5detect Cordless Vacuum Cleaner', 'price': 949.0, 'availability': 'Only 2 left in stock - order soon.', 'timestamp': '2025-06-16T16:12:04.792045', 'url': 'https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1'}
+ERROR:root:Error scraping Dyson Gen5detect Cordless Vacuum Cleaner: [Errno 13] Permission denied: 'data/exports/price_history.csv'
+INFO:root:Starting price tracker with 24-hour interval
+INFO:root:Price tracker stopped by user
+INFO:root:Scraping URL: https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1
+INFO:root:Scraped data: {'title': 'Dyson Gen5detect Cordless Vacuum Cleaner', 'price': 949.0, 'availability': 'Only 2 left in stock - order soon.', 'timestamp': '2025-06-16T16:12:29.808691', 'url': 'https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1'}
+INFO:root:Scraped Dyson Gen5detect Cordless Vacuum Cleaner successfully
+INFO:root:Starting price tracker with 24-hour interval
+INFO:root:Price tracker stopped by user
+INFO:root:Scraping URL: https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1
+INFO:root:Scraped data: {'title': 'Dyson Gen5detect Cordless Vacuum Cleaner', 'price': 949.0, 'availability': 'Only 2 left in stock - order soon.', 'timestamp': '2025-06-16T16:16:16.416142', 'url': 'https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1'}
+INFO:root:Scraped Dyson Gen5detect Cordless Vacuum Cleaner successfully
+INFO:root:Starting price tracker with 24-hour interval
+INFO:root:Price tracker stopped by user
+INFO:root:Scraping URL: https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1
+INFO:root:Scraped data: {'title': 'Dyson Gen5detect Cordless Vacuum Cleaner', 'price': 949.0, 'availability': 'Only 2 left in stock - order soon.', 'timestamp': '2025-06-16T16:28:22.018109', 'url': 'https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1'}
+INFO:root:Generating plot for Dyson Gen5detect Cordless Vacuum Cleaner with data:    id  ...                   timestamp
+0   1  ...  2025-06-16T15:35:41.887079
+1   2  ...  2025-06-16T15:50:23.289674
+2   3  ...  2025-06-16T15:56:24.932860
+3   4  ...  2025-06-16T15:56:56.643565
+4   5  ...  2025-06-16T16:12:04.792045
+5   6  ...  2025-06-16T16:12:29.808691
+6   7  ...  2025-06-16T16:16:16.416142
+7   8  ...  2025-06-16T16:28:22.018109
+
+[8 rows x 6 columns]
+INFO:root:Saved chart to data/exports/price_chart_Dyson_Gen5detect_Cordless_Vacuum_Cleaner.png
+INFO:root:Scraped Dyson Gen5detect Cordless Vacuum Cleaner successfully
+INFO:root:Starting price tracker with 24-hour interval
+INFO:root:Price tracker stopped by user
+INFO:root:Scraping URL: https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1
+INFO:root:Scraped data: {'title': 'Dyson Gen5detect Cordless Vacuum Cleaner', 'price': 949.0, 'availability': 'Only 2 left in stock - order soon.', 'timestamp': '2025-06-16T16:29:32.063592', 'url': 'https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1'}
+INFO:root:Generating plot for Dyson Gen5detect Cordless Vacuum Cleaner with data:    id  ...                   timestamp
+0   1  ...  2025-06-16T15:35:41.887079
+1   2  ...  2025-06-16T15:50:23.289674
+2   3  ...  2025-06-16T15:56:24.932860
+3   4  ...  2025-06-16T15:56:56.643565
+4   5  ...  2025-06-16T16:12:04.792045
+5   6  ...  2025-06-16T16:12:29.808691
+6   7  ...  2025-06-16T16:16:16.416142
+7   8  ...  2025-06-16T16:28:22.018109
+8   9  ...  2025-06-16T16:29:32.063592
+
+[9 rows x 6 columns]
+INFO:root:Saved chart to data/exports/price_chart_Dyson_Gen5detect_Cordless_Vacuum_Cleaner.png
+INFO:root:Scraped Dyson Gen5detect Cordless Vacuum Cleaner successfully
+INFO:root:Starting price tracker with 24-hour interval
+INFO:root:Price tracker stopped by user
+INFO:root:Scraping URL: https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1
+INFO:root:Scraped data: {'title': 'Dyson Gen5detect Cordless Vacuum Cleaner', 'price': 949.0, 'availability': 'Only 2 left in stock - order soon.', 'timestamp': '2025-06-16T16:31:42.679614', 'url': 'https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1'}
+INFO:root:Generating plot for Dyson Gen5detect Cordless Vacuum Cleaner with data:    id  ...                   timestamp
+0   1  ...  2025-06-16T15:35:41.887079
+1   2  ...  2025-06-16T15:50:23.289674
+2   3  ...  2025-06-16T15:56:24.932860
+3   4  ...  2025-06-16T15:56:56.643565
+4   5  ...  2025-06-16T16:12:04.792045
+5   6  ...  2025-06-16T16:12:29.808691
+6   7  ...  2025-06-16T16:16:16.416142
+7   8  ...  2025-06-16T16:28:22.018109
+8   9  ...  2025-06-16T16:29:32.063592
+9  10  ...  2025-06-16T16:31:42.679614
+
+[10 rows x 6 columns]
+INFO:root:Saved chart to data/exports/price_chart_Dyson_Gen5detect_Cordless_Vacuum_Cleaner.png (size: 24696 bytes)
+INFO:root:Scraped Dyson Gen5detect Cordless Vacuum Cleaner successfully
+INFO:root:Starting price tracker with 24-hour interval
+INFO:root:Price tracker stopped by user
+INFO:root:Scraping URL: https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1
+INFO:root:Scraped data: {'title': 'Dyson Gen5detect Cordless Vacuum Cleaner', 'price': 949.0, 'availability': 'Only 2 left in stock - order soon.', 'timestamp': '2025-06-16T16:36:26.432630', 'url': 'https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1'}
+INFO:root:Inserting data: {'title': 'Dyson Gen5detect Cordless Vacuum Cleaner', 'price': 949.0, 'availability': 'Only 2 left in stock - order soon.', 'timestamp': '2025-06-16T16:36:26.432630', 'url': 'https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1'}
+INFO:root:Retrieved data for https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1:     id  ...                   timestamp
+0   11  ...  2025-06-16T16:36:26.432630
+1   10  ...  2025-06-16T16:31:42.679614
+2    9  ...  2025-06-16T16:29:32.063592
+3    8  ...  2025-06-16T16:28:22.018109
+4    7  ...  2025-06-16T16:16:16.416142
+5    6  ...  2025-06-16T16:12:29.808691
+6    5  ...  2025-06-16T16:12:04.792045
+7    4  ...  2025-06-16T15:56:56.643565
+8    3  ...  2025-06-16T15:56:24.932860
+9    2  ...  2025-06-16T15:50:23.289674
+10   1  ...  2025-06-16T15:35:41.887079
+
+[11 rows x 6 columns]
+INFO:root:Retrieved data for https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1:     id  ...                   timestamp
+0   11  ...  2025-06-16T16:36:26.432630
+1   10  ...  2025-06-16T16:31:42.679614
+2    9  ...  2025-06-16T16:29:32.063592
+3    8  ...  2025-06-16T16:28:22.018109
+4    7  ...  2025-06-16T16:16:16.416142
+5    6  ...  2025-06-16T16:12:29.808691
+6    5  ...  2025-06-16T16:12:04.792045
+7    4  ...  2025-06-16T15:56:56.643565
+8    3  ...  2025-06-16T15:56:24.932860
+9    2  ...  2025-06-16T15:50:23.289674
+10   1  ...  2025-06-16T15:35:41.887079
+
+[11 rows x 6 columns]
+INFO:root:Exported CSV to data/exports/price_history.csv
+INFO:root:Generating plot for Dyson Gen5detect Cordless Vacuum Cleaner with data:     id  ...                   timestamp
+0   11  ...  2025-06-16T16:36:26.432630
+1   10  ...  2025-06-16T16:31:42.679614
+2    9  ...  2025-06-16T16:29:32.063592
+3    8  ...  2025-06-16T16:28:22.018109
+4    7  ...  2025-06-16T16:16:16.416142
+5    6  ...  2025-06-16T16:12:29.808691
+6    5  ...  2025-06-16T16:12:04.792045
+7    4  ...  2025-06-16T15:56:56.643565
+8    3  ...  2025-06-16T15:56:24.932860
+9    2  ...  2025-06-16T15:50:23.289674
+10   1  ...  2025-06-16T15:35:41.887079
+
+[11 rows x 6 columns]
+INFO:root:Saved chart to data/exports/price_chart_Dyson_Gen5detect_Cordless_Vacuum_Cleaner.png (size: 25002 bytes)
+INFO:root:Scraped Dyson Gen5detect Cordless Vacuum Cleaner successfully
+INFO:root:Starting price tracker with 24-hour interval
+INFO:root:Price tracker stopped by user
+INFO:root:Scraping URL: https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1
+INFO:root:Scraped data: {'title': 'Dyson Gen5detect Cordless Vacuum Cleaner', 'price': 949.0, 'availability': 'Only 2 left in stock - order soon.', 'timestamp': '2025-06-16T16:37:28.924517', 'url': 'https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1'}
+INFO:root:Inserting data: {'title': 'Dyson Gen5detect Cordless Vacuum Cleaner', 'price': 949.0, 'availability': 'Only 2 left in stock - order soon.', 'timestamp': '2025-06-16T16:37:28.924517', 'url': 'https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1'}
+INFO:root:Retrieved data for https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1:     id  ...                   timestamp
+0   12  ...  2025-06-16T16:37:28.924517
+1   11  ...  2025-06-16T16:36:26.432630
+2   10  ...  2025-06-16T16:31:42.679614
+3    9  ...  2025-06-16T16:29:32.063592
+4    8  ...  2025-06-16T16:28:22.018109
+5    7  ...  2025-06-16T16:16:16.416142
+6    6  ...  2025-06-16T16:12:29.808691
+7    5  ...  2025-06-16T16:12:04.792045
+8    4  ...  2025-06-16T15:56:56.643565
+9    3  ...  2025-06-16T15:56:24.932860
+10   2  ...  2025-06-16T15:50:23.289674
+11   1  ...  2025-06-16T15:35:41.887079
+
+[12 rows x 6 columns]
+INFO:root:Retrieved data for https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1:     id  ...                   timestamp
+0   12  ...  2025-06-16T16:37:28.924517
+1   11  ...  2025-06-16T16:36:26.432630
+2   10  ...  2025-06-16T16:31:42.679614
+3    9  ...  2025-06-16T16:29:32.063592
+4    8  ...  2025-06-16T16:28:22.018109
+5    7  ...  2025-06-16T16:16:16.416142
+6    6  ...  2025-06-16T16:12:29.808691
+7    5  ...  2025-06-16T16:12:04.792045
+8    4  ...  2025-06-16T15:56:56.643565
+9    3  ...  2025-06-16T15:56:24.932860
+10   2  ...  2025-06-16T15:50:23.289674
+11   1  ...  2025-06-16T15:35:41.887079
+
+[12 rows x 6 columns]
+INFO:root:Exported CSV to data/exports/price_history.csv
+INFO:root:Generating plot for Dyson Gen5detect Cordless Vacuum Cleaner with data:     id  ...                   timestamp
+0   12  ...  2025-06-16T16:37:28.924517
+1   11  ...  2025-06-16T16:36:26.432630
+2   10  ...  2025-06-16T16:31:42.679614
+3    9  ...  2025-06-16T16:29:32.063592
+4    8  ...  2025-06-16T16:28:22.018109
+5    7  ...  2025-06-16T16:16:16.416142
+6    6  ...  2025-06-16T16:12:29.808691
+7    5  ...  2025-06-16T16:12:04.792045
+8    4  ...  2025-06-16T15:56:56.643565
+9    3  ...  2025-06-16T15:56:24.932860
+10   2  ...  2025-06-16T15:50:23.289674
+11   1  ...  2025-06-16T15:35:41.887079
+
+[12 rows x 6 columns]
+INFO:root:Saved chart to data/exports/price_chart_Dyson_Gen5detect_Cordless_Vacuum_Cleaner.png (size: 25032 bytes)
+INFO:root:Scraped Dyson Gen5detect Cordless Vacuum Cleaner successfully
+INFO:root:Starting price tracker with 24-hour interval
+INFO:root:Price tracker stopped by user
+INFO:root:Scraping URL: https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1
+INFO:root:Scraped data: {'title': 'Dyson Gen5detect Cordless Vacuum Cleaner', 'price': 949.0, 'availability': 'Only 2 left in stock - order soon.', 'timestamp': '2025-06-16T16:47:10.009034', 'url': 'https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1'}
+INFO:root:Inserting data: {'title': 'Dyson Gen5detect Cordless Vacuum Cleaner', 'price': 949.0, 'availability': 'Only 2 left in stock - order soon.', 'timestamp': '2025-06-16T16:47:10.009034', 'url': 'https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1'}
+INFO:root:Retrieved data for https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1:     id  ...                   timestamp
+0   13  ...  2025-06-16T16:47:10.009034
+1   12  ...  2025-06-16T16:37:28.924517
+2   11  ...  2025-06-16T16:36:26.432630
+3   10  ...  2025-06-16T16:31:42.679614
+4    9  ...  2025-06-16T16:29:32.063592
+5    8  ...  2025-06-16T16:28:22.018109
+6    7  ...  2025-06-16T16:16:16.416142
+7    6  ...  2025-06-16T16:12:29.808691
+8    5  ...  2025-06-16T16:12:04.792045
+9    4  ...  2025-06-16T15:56:56.643565
+10   3  ...  2025-06-16T15:56:24.932860
+11   2  ...  2025-06-16T15:50:23.289674
+12   1  ...  2025-06-16T15:35:41.887079
+
+[13 rows x 6 columns]
+INFO:root:Retrieved data for https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1:     id  ...                   timestamp
+0   13  ...  2025-06-16T16:47:10.009034
+1   12  ...  2025-06-16T16:37:28.924517
+2   11  ...  2025-06-16T16:36:26.432630
+3   10  ...  2025-06-16T16:31:42.679614
+4    9  ...  2025-06-16T16:29:32.063592
+5    8  ...  2025-06-16T16:28:22.018109
+6    7  ...  2025-06-16T16:16:16.416142
+7    6  ...  2025-06-16T16:12:29.808691
+8    5  ...  2025-06-16T16:12:04.792045
+9    4  ...  2025-06-16T15:56:56.643565
+10   3  ...  2025-06-16T15:56:24.932860
+11   2  ...  2025-06-16T15:50:23.289674
+12   1  ...  2025-06-16T15:35:41.887079
+
+[13 rows x 6 columns]
+INFO:root:Exported CSV to data/exports/price_history.csv
+INFO:root:Generating plot for Dyson Gen5detect Cordless Vacuum Cleaner with data:     id  ...                   timestamp
+0   13  ...  2025-06-16T16:47:10.009034
+1   12  ...  2025-06-16T16:37:28.924517
+2   11  ...  2025-06-16T16:36:26.432630
+3   10  ...  2025-06-16T16:31:42.679614
+4    9  ...  2025-06-16T16:29:32.063592
+5    8  ...  2025-06-16T16:28:22.018109
+6    7  ...  2025-06-16T16:16:16.416142
+7    6  ...  2025-06-16T16:12:29.808691
+8    5  ...  2025-06-16T16:12:04.792045
+9    4  ...  2025-06-16T15:56:56.643565
+10   3  ...  2025-06-16T15:56:24.932860
+11   2  ...  2025-06-16T15:50:23.289674
+12   1  ...  2025-06-16T15:35:41.887079
+
+[13 rows x 6 columns]
+INFO:root:Saved chart to data/exports/price_chart_Dyson_Gen5detect_Cordless_Vacuum_Cleaner.png (size: 23038 bytes)
+INFO:root:Scraped Dyson Gen5detect Cordless Vacuum Cleaner successfully
+INFO:root:Starting price tracker with 24-hour interval
+INFO:root:Price tracker stopped by user
+INFO:root:Scraping URL: https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1
+INFO:root:Scraped data: {'title': 'Dyson Gen5detect Cordless Vacuum Cleaner', 'price': 949.0, 'availability': 'Only 2 left in stock - order soon.', 'timestamp': '2025-06-16T16:54:46.211484', 'url': 'https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1'}
+INFO:root:Inserting data: {'title': 'Dyson Gen5detect Cordless Vacuum Cleaner', 'price': 949.0, 'availability': 'Only 2 left in stock - order soon.', 'timestamp': '2025-06-16T16:54:46.211484', 'url': 'https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1'}
+INFO:root:Retrieved data for https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1:     id  ...                   timestamp
+0   14  ...  2025-06-16T16:54:46.211484
+1   13  ...  2025-06-16T16:47:10.009034
+2   12  ...  2025-06-16T16:37:28.924517
+3   11  ...  2025-06-16T16:36:26.432630
+4   10  ...  2025-06-16T16:31:42.679614
+5    9  ...  2025-06-16T16:29:32.063592
+6    8  ...  2025-06-16T16:28:22.018109
+7    7  ...  2025-06-16T16:16:16.416142
+8    6  ...  2025-06-16T16:12:29.808691
+9    5  ...  2025-06-16T16:12:04.792045
+10   4  ...  2025-06-16T15:56:56.643565
+11   3  ...  2025-06-16T15:56:24.932860
+12   2  ...  2025-06-16T15:50:23.289674
+13   1  ...  2025-06-16T15:35:41.887079
+
+[14 rows x 6 columns]
+INFO:root:Retrieved data for https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1:     id  ...                   timestamp
+0   14  ...  2025-06-16T16:54:46.211484
+1   13  ...  2025-06-16T16:47:10.009034
+2   12  ...  2025-06-16T16:37:28.924517
+3   11  ...  2025-06-16T16:36:26.432630
+4   10  ...  2025-06-16T16:31:42.679614
+5    9  ...  2025-06-16T16:29:32.063592
+6    8  ...  2025-06-16T16:28:22.018109
+7    7  ...  2025-06-16T16:16:16.416142
+8    6  ...  2025-06-16T16:12:29.808691
+9    5  ...  2025-06-16T16:12:04.792045
+10   4  ...  2025-06-16T15:56:56.643565
+11   3  ...  2025-06-16T15:56:24.932860
+12   2  ...  2025-06-16T15:50:23.289674
+13   1  ...  2025-06-16T15:35:41.887079
+
+[14 rows x 6 columns]
+INFO:root:Exported CSV to data/exports/price_history.csv
+INFO:root:Generating plot for Dyson Gen5detect Cordless Vacuum Cleaner with data:     id  ...                   timestamp
+0   14  ...  2025-06-16T16:54:46.211484
+1   13  ...  2025-06-16T16:47:10.009034
+2   12  ...  2025-06-16T16:37:28.924517
+3   11  ...  2025-06-16T16:36:26.432630
+4   10  ...  2025-06-16T16:31:42.679614
+5    9  ...  2025-06-16T16:29:32.063592
+6    8  ...  2025-06-16T16:28:22.018109
+7    7  ...  2025-06-16T16:16:16.416142
+8    6  ...  2025-06-16T16:12:29.808691
+9    5  ...  2025-06-16T16:12:04.792045
+10   4  ...  2025-06-16T15:56:56.643565
+11   3  ...  2025-06-16T15:56:24.932860
+12   2  ...  2025-06-16T15:50:23.289674
+13   1  ...  2025-06-16T15:35:41.887079
+
+[14 rows x 6 columns]
+INFO:root:Removed existing file: data/exports/price_chart_Dyson_Gen5detect_Cordless_Vacuum_Cleaner.png
+INFO:root:Successfully saved chart to data/exports/price_chart_Dyson_Gen5detect_Cordless_Vacuum_Cleaner.png (size: 23566 bytes)
+INFO:root:Scraped Dyson Gen5detect Cordless Vacuum Cleaner successfully
+INFO:root:Starting price tracker with 24-hour interval
+INFO:root:Price tracker stopped by user
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 888-554-329
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 888-554-329
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 888-554-329
+INFO:root:Starting Flask app
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Starting index route
+INFO:root:Config loaded
+INFO:root:Processing product: Dyson Gen5detect Cordless Vacuum Cleaner
+INFO:root:Retrieved data for https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1:     id  ...                   timestamp
+0   14  ...  2025-06-16T16:54:46.211484
+1   13  ...  2025-06-16T16:47:10.009034
+2   12  ...  2025-06-16T16:37:28.924517
+3   11  ...  2025-06-16T16:36:26.432630
+4   10  ...  2025-06-16T16:31:42.679614
+5    9  ...  2025-06-16T16:29:32.063592
+6    8  ...  2025-06-16T16:28:22.018109
+7    7  ...  2025-06-16T16:16:16.416142
+8    6  ...  2025-06-16T16:12:29.808691
+9    5  ...  2025-06-16T16:12:04.792045
+10   4  ...  2025-06-16T15:56:56.643565
+11   3  ...  2025-06-16T15:56:24.932860
+12   2  ...  2025-06-16T15:50:23.289674
+13   1  ...  2025-06-16T15:35:41.887079
+
+[14 rows x 6 columns]
+INFO:root:Queried data for Dyson Gen5detect Cordless Vacuum Cleaner in 0.04 seconds
+INFO:root:Generating plot for Dyson Gen5detect Cordless Vacuum Cleaner with data:     id  ...                   timestamp
+0   14  ...  2025-06-16T16:54:46.211484
+1   13  ...  2025-06-16T16:47:10.009034
+2   12  ...  2025-06-16T16:37:28.924517
+3   11  ...  2025-06-16T16:36:26.432630
+4   10  ...  2025-06-16T16:31:42.679614
+5    9  ...  2025-06-16T16:29:32.063592
+6    8  ...  2025-06-16T16:28:22.018109
+7    7  ...  2025-06-16T16:16:16.416142
+8    6  ...  2025-06-16T16:12:29.808691
+9    5  ...  2025-06-16T16:12:04.792045
+10   4  ...  2025-06-16T15:56:56.643565
+11   3  ...  2025-06-16T15:56:24.932860
+12   2  ...  2025-06-16T15:50:23.289674
+13   1  ...  2025-06-16T15:35:41.887079
+
+[14 rows x 6 columns]
+INFO:root:Removed existing file: data/exports/price_chart_Dyson_Gen5detect_Cordless_Vacuum_Cleaner.png
+INFO:root:Successfully saved chart to data/exports/price_chart_Dyson_Gen5detect_Cordless_Vacuum_Cleaner.png (size: 23566 bytes)
+INFO:root:Generated chart for Dyson Gen5detect Cordless Vacuum Cleaner in 0.36 seconds
+INFO:root:Completed index route in 0.42 seconds
+INFO:werkzeug:127.0.0.1 - - [16/Jun/2025 17:10:45] "GET / HTTP/1.1" 200 -
+INFO:root:Serving file: data\exports\price_chart_Dyson_Gen5detect_Cordless_Vacuum_Cleaner.png
+INFO:werkzeug:127.0.0.1 - - [16/Jun/2025 17:10:45] "[33mGET /exports/price_chart_Dyson_Gen5detect_Cordless_Vacuum_Cleaner.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [16/Jun/2025 17:10:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -

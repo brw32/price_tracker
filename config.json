@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "name": "Dyson Gen5detect Cordless Vacuum Cleaner",
+      "url": "https://www.amazon.com/Dyson-Gen5detect-Cordless-Vacuum-Cleaner/dp/B0C2JD5H7D/ref=sr_1_1?crid=301ALWVE6VNJ6&dib=eyJ2IjoiMSJ9.f03GhTUdsx1FcQ6-ZSQrbZPO6QknBRWdSCRsxRngewW8y-x823uzriTKhSVcGekV8qH1LrLppkh6meYkUIGqOiXdA0bfsULpfz5VE1xsYrONUE1PKPywt-c6TV-S8IlT-Ro8h3TpulLd-id3VSAB0-xv-AfpmyHYkBnWNqHfeAl5UaywXyRMvJcaUqmXrI2Ybe_x_z8kXrzkDS9GIELXqFIRiiSiC-_ovj6b4tiBZUU.MC0AyiZwUwaceqXFHvjbvRZfA6pKWDyPokzsajBGpVY&dib_tag=se&keywords=dyson%2Bcordless%2Bvacuum%2Bgen5&qid=1750100998&sprefix=dyson%2Bcordless%2Bvacuum%2Bge%2Caps%2C101&sr=8-1&th=1",
+      "store": "amazon"
+    }
+  ],
+  "scrape_interval_hours": 24,
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+  "flask_enabled": true
+}
